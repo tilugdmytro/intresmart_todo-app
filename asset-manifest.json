@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intresmart_todo-app/static/css/main.0663f93b.css",
+    "main.js": "/intresmart_todo-app/static/js/main.145a9619.js",
+    "static/js/787.9dff8d2b.chunk.js": "/intresmart_todo-app/static/js/787.9dff8d2b.chunk.js",
+    "index.html": "/intresmart_todo-app/index.html",
+    "main.0663f93b.css.map": "/intresmart_todo-app/static/css/main.0663f93b.css.map",
+    "main.145a9619.js.map": "/intresmart_todo-app/static/js/main.145a9619.js.map",
+    "787.9dff8d2b.chunk.js.map": "/intresmart_todo-app/static/js/787.9dff8d2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0663f93b.css",
+    "static/js/main.145a9619.js"
+  ]
+}
